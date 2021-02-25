@@ -254,3 +254,14 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+@media (max-width: 450px){
+  .section-heading .section-heading-lower {
+    font-size: 2.5rem;
+
+  }
+}
+  @media (min-width: 450px){
+    .flex{
+      display: flex!important;
+    }
+}
